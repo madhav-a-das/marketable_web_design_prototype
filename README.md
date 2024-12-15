@@ -8,4 +8,4 @@ In this html page you will be redirected to my figma design prototype. You can c
 **Link to figma prototype:** https://www.figma.com/proto/SFFl1qRbvs43x7xhim0p4X/Marketable?page-id=0%3A1&node-id=119-5&p=f&viewport=-4523%2C-5022%2C0.58&t=roya1X5F4p3FPmql-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A3
 
 **Landing Page**
-![image](https://github.com/user-attachments/assets/2133aa69-cac0-4bed-b3c3-2ca54f6b83c8)
+![Screenshot (14)](https://github.com/user-attachments/assets/235d43c8-1ffe-4416-846f-b97670c62d38)
